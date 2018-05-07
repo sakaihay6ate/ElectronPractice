@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },  
   "bugs": {
     "url": "https://github.com/sakaihay6ate/ElectronPractice/issues"
   },
