@@ -14,10 +14,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.8.4"
-  },  
+    "electron": "^1.8.4",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  },
   "bugs": {
     "url": "https://github.com/sakaihay6ate/ElectronPractice/issues"
   },
-  "homepage": "https://github.com/sakaihay6ate/ElectronPractice#readme"
+  "homepage": "https://github.com/sakaihay6ate/ElectronPractice#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
 }
