@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/sakaihay6ate/ElectronPractice#readme",
   "dependencies": {
-    "moment": "^2.22.1"
+    "moment": "^2.22.1",
+    "node-notifier": "^5.2.1"
   }
 }
